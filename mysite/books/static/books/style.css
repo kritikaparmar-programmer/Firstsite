@@ -1,0 +1,18 @@
+body{
+
+}
+.jumbotron{
+    background-image:url("C:\Users\Admin\Desktop\firstsite\mysite\books\static\books\images\yellow.jpg");
+    background-size: cover;
+
+}
+.jumbotron-special{
+
+
+	background-color: rgb(76, 0, 153);
+
+}
+.jumbotron-special h2{
+
+	color:white;
+}
